@@ -1,0 +1,46 @@
+.topbar{
+    display:flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: #164863;
+    padding: 0px;
+    margin: 0px;
+    color: white;
+     position: fixed;
+    width: 100%;
+     top: 0px; 
+     
+}
+
+.topbarContainer{
+    padding-bottom:80px ;
+}
+
+
+.leftTopbar{
+    flex:4;
+}
+
+.rightTopbar{
+    flex:5;
+    display: flex;
+    justify-content: end;
+    padding-right: 20px;
+
+}
+
+.middleTopbar{
+    flex:4;
+    display: flex;
+}
+.inputfield{
+    padding-left: 13px;
+}
+.icons{
+    margin:10px;
+    padding-right:15px;
+    /* height: 50px; */
+}
+.heading{
+    padding-left: 20px;
+}

@@ -1,0 +1,64 @@
+.con{
+    height:400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.shareStylingbox{
+    -webkit-box-shadow: 3px 2px 5px 6px rgba(0,0,0,0.09);
+    -moz-box-shadow: 3px 2px 5px 6px rgba(0,0,0,0.09);
+    box-shadow: 3px 2px 5px 6px rgba(0,0,0,0.09);
+    border-radius: 20px;
+    width: 83%;
+
+}
+
+
+.shareBox{
+    height:120px;
+    padding-top: 40px;
+    padding-left: 25px;
+    padding-right: 25px;
+   
+    
+}
+
+.shareInputField{
+    border: none;
+    margin-left:10px ;
+    margin-bottom: 10px;
+}
+
+.shareOptions{
+    display: flex;
+    justify-content: space-around;
+}
+
+.shareButton{
+    background-color: rgb(3, 85, 3);
+    color: white;
+}
+
+.shareIcons{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    height: 40px;
+ }
+
+ .sharepic{
+    margin-right: 8px;
+ }
+
+ #pic{
+    color: rgb(22, 65, 124);
+ }
+
+ #tag{
+    color:rgb(247, 63, 7)
+ }
+
+ #emoji{
+    color: rgb(255, 213, 0);
+ }

@@ -1,0 +1,32 @@
+.onlineHeading{
+    font-size: 30px;
+    margin-left: 45px;
+    padding-top: 20px;
+ padding-bottom: 10px;
+}
+
+.onlineIcons{
+    height: 50px;
+    width: 50px;
+
+}
+
+.OnlineFriendsList{
+    list-style: none;
+}
+
+.OnlineFriendsListbox{
+    display: flex;
+   
+}
+
+.onlineName{
+    margin-left: 15px;
+    font-size: 20px;
+    margin-top: 10px;
+
+}
+.OnlineListItems{
+    display: flex;
+    justify-content:center ;
+}
